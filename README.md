@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my information is available at [martimfasantos.github.io](https://martimfasantos.github.io/)
 
-- 📄 Know about my experiences [martimfasantos.github.io/resume](https://martimfasantos.github.io/resume)
+- 📄 Explore my experiences by viewing my [CV](https://martimfasantos.github.io/res/cv/cv-martim-santos-en.pdf)
 
 - 💬 Ask me about **anything you'd like!**
 
