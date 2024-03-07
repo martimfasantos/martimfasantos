@@ -11,9 +11,9 @@
 
 - 📚 Interested in **AI, Deep Learning, and NLP**, to understand their practical applications and the latest advancements.
 
-- 👨‍💻 All of my information is available at [martimfasantos.github.io](martimfasantos.github.io)
+- 👨‍💻 All of my information is available at [martimfasantos.github.io](https://martimfasantos.github.io/)
 
-- 📄 Know about my experiences [martimfasantos.github.io/resume](martimfasantos.github.io/resume)
+- 📄 Know about my experiences [martimfasantos.github.io/resume](https://martimfasantos.github.io/resume)
 
 - 💬 Ask me about **anything you'd like!**
 
