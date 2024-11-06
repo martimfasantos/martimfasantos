@@ -1,13 +1,13 @@
 <h1 align="center">Hi👋, I'm Martim Santos</h1>
-<h3 align="center">A passionate student/developer from Portugal</h3>
+<h3 align="center">An AI and Data Science enthusiast from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martimfasantos&label=Profile%20views&color=49d5ee&style=flat" alt="martimfasantos" /> </p>
 
-- 🎓 I’m currently completing my **Master's Degree** @ IST.
+- 🎓 I recently completed my Master's Degree @ Instituto Superior Técnico (IST).
 
-- 🌍 I have studied in **Munich, Germany** @ TUM as part of the Erasmus program.
+- 🌍 I had the opportunity to study in **Munich, Germany** @ TUM as part of the Erasmus program.
 
-- 📖 I'm currently working on my **Master's Thesis**, exploring areas such as **Deep Learning, NLP, Reinforcement Learning**.
+- 📖 My **Master's thesis** focused on areas such as **NLP, AI, Deep Learning**, and **Reinforcement Learning** techniques.
 
 - 📚 Interested in **AI, Machine Learning, Data Science and NLP**, to understand their practical applications and the latest advancements.
 
