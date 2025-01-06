@@ -1,5 +1,5 @@
 ## Hi, I'm Martim👋
-<img align="right" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" width="35%">
+<img align="right" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" width="40%">
 
 #### An AI & Data Science enthusiast from Portugal
 
