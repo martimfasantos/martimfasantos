@@ -19,6 +19,8 @@
 
 
 ### Languages and Tools:
+![.](https://skills.syvixor.com/api/icons?perline=15&i=python,llamaindex,googleadk,chatgpt,langchain,pandas,tensorflow,scikitlearn,pytorch,huggingface,matplotlib,jupyter,docker,googlecloud,azure,amazonwebservices,fastapi,postgresql,mongodb,mysql,ollama,pydantic,uv,github)
+<!--
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -36,4 +38,11 @@
 ![](https://img.shields.io/badge/pytest-blue?style=for-the-badge&logo=pytest&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+-->
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martimfasantos&show_icons=true&theme=tokyonight&hide_border=true)
+
+
 
