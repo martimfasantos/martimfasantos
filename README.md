@@ -8,22 +8,7 @@
 
 <img align="right" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" width="42%"/>
 
-### 🖥️ Who Am I
-
-```console
-martim@github:~$ whoami
-Martim Santos
-  role:        AI Tech Lead · AI Engineer & Data Scientist
-  focus:       Agentic AI, agents, workflows, intelligent systems
-  education:
-    msc:       Instituto Superior Técnico (IST), Lisbon
-               Technische Universität München (TUM), Germany
-    thesis:    Aligning LMs with Human Preferences
-    field:     AI & Data Science
-  interests:
-    - Agentic AI · GenAI · LLMs
-    - NLP · Preference Optimization
-```
+<img src="assets/terminal.svg" width="54%" alt="whoami: Martim Santos, AI Tech Lead · AI Engineer & Data Scientist"/>
 
 <p align="center">
   🌐 <a href="https://martimfasantos.github.io/">my portfolio</a> · 📝 <a href="https://github.com/martimfasantos/MSc-Thesis">msc thesis</a>
@@ -37,8 +22,6 @@ Martim Santos
 
 <br clear="right"/>
 
----
-
 ### 🛠️ languages & tools
 
 ![Languages & Tools](https://skills.syvixor.com/api/icons?perline=15&i=python,claudecode,chatgpt,llamaindex,mcp,langchain,googleadk,claudeai,visualstudiocode,codex,opencode,pandas,tensorflow,scikitlearn,pytorch,huggingface,matplotlib,jupyter,docker,kubernetes,googlecloud,azure,amazonwebservices,fastapi,postgresql,mongodb,mysql,ollama,pydantic,uv,github,copilot,supabase,vercel,stripe,notion,redis)
@@ -48,24 +31,24 @@ Martim Santos
 ### 👨🏻‍💻 some of my open source contributions
 
 <p align="center">
-  <a href="https://github.com/run-llama/llama_index"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=run-llama&repo=llama_index&theme=tokyonight&border_color=30363D&border_radius=10&bg_color=00000000&description_lines_count=2" alt="llama_index"/></a>
-  <a href="https://github.com/modelcontextprotocol/python-sdk"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=modelcontextprotocol&repo=python-sdk&theme=tokyonight&border_color=30363D&border_radius=10&bg_color=00000000&description_lines_count=2" alt="MCP python-sdk"/></a>
-  <a href="https://github.com/openai/openai-agents-python"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=openai&repo=openai-agents-python&theme=tokyonight&border_color=30363D&border_radius=10&bg_color=00000000&description_lines_count=2" alt="openai-agents-python"/></a>
-  <a href="https://github.com/a2aproject/A2A"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=a2aproject&repo=A2A&theme=tokyonight&border_color=30363D&border_radius=10&bg_color=00000000&description_lines_count=2" alt="A2A"/></a>
-  <a href="https://github.com/a2aproject/a2a-python"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=a2aproject&repo=a2a-python&theme=tokyonight&border_color=30363D&border_radius=10&bg_color=00000000&description_lines_count=2" alt="a2a-python"/></a>
-  <a href="https://github.com/a2aproject/a2a-samples"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=a2aproject&repo=a2a-samples&theme=tokyonight&border_color=30363D&border_radius=10&bg_color=00000000&description_lines_count=2" alt="a2a-samples"/></a>
-  <a href="https://github.com/PrefectHQ/fastmcp"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PrefectHQ&repo=fastmcp&theme=tokyonight&border_color=30363D&border_radius=10&bg_color=00000000&description_lines_count=2" alt="fastmcp"/></a>
-  <a href="https://github.com/traceloop/openllmetry"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=traceloop&repo=openllmetry&theme=tokyonight&border_color=30363D&border_radius=10&bg_color=00000000&description_lines_count=2" alt="openllmetry"/></a>
-  <a href="https://github.com/agno-agi/agno"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agno-agi&repo=agno&theme=tokyonight&border_color=30363D&border_radius=10&bg_color=00000000&description_lines_count=2" alt="agno"/></a>
+  <a href="https://github.com/run-llama/llama_index"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=run-llama&repo=llama_index&theme=tokyonight&border_color=30363D&border_radius=10&bg_color=00000000&description_lines_count=2" alt="llama_index"/></a>
+  <a href="https://github.com/modelcontextprotocol/python-sdk"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=modelcontextprotocol&repo=python-sdk&theme=tokyonight&border_color=30363D&border_radius=10&bg_color=00000000&description_lines_count=2" alt="MCP python-sdk"/></a>
+  <a href="https://github.com/openai/openai-agents-python"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=openai&repo=openai-agents-python&theme=tokyonight&border_color=30363D&border_radius=10&bg_color=00000000&description_lines_count=2" alt="openai-agents-python"/></a>
+  <a href="https://github.com/a2aproject/A2A"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=a2aproject&repo=A2A&theme=tokyonight&border_color=30363D&border_radius=10&bg_color=00000000&description_lines_count=2" alt="A2A"/></a>
+  <a href="https://github.com/a2aproject/a2a-python"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=a2aproject&repo=a2a-python&theme=tokyonight&border_color=30363D&border_radius=10&bg_color=00000000&description_lines_count=2" alt="a2a-python"/></a>
+  <a href="https://github.com/a2aproject/a2a-samples"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=a2aproject&repo=a2a-samples&theme=tokyonight&border_color=30363D&border_radius=10&bg_color=00000000&description_lines_count=2" alt="a2a-samples"/></a>
+  <a href="https://github.com/PrefectHQ/fastmcp"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PrefectHQ&repo=fastmcp&theme=tokyonight&border_color=30363D&border_radius=10&bg_color=00000000&description_lines_count=2" alt="fastmcp"/></a>
+  <a href="https://github.com/traceloop/openllmetry"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=traceloop&repo=openllmetry&theme=tokyonight&border_color=30363D&border_radius=10&bg_color=00000000&description_lines_count=2" alt="openllmetry"/></a>
+  <a href="https://github.com/agno-agi/agno"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agno-agi&repo=agno&theme=tokyonight&border_color=30363D&border_radius=10&bg_color=00000000&description_lines_count=2" alt="agno"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 github stats
 
-<p align="left">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=martimfasantos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="180px" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=martimfasantos&theme=tokyonight&hide_border=true&background=00000000" height="180px" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=martimfasantos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=martimfasantos&theme=tokyonight&hide_border=true&background=00000000" height="165" alt="GitHub Streak"/>
 </p>
 
 <picture>

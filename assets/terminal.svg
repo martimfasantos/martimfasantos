@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="418" viewBox="0 0 600 418">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 16px; fill: #c0caf5; white-space: pre; }
+    .user { fill: #9ece6a; }
+    .path { fill: #7aa2f7; }
+    .key { fill: #7dcfff; }
+    .name { fill: #bb9af7; font-weight: bold; }
+    .dim { fill: #565f89; }
+    .title { fill: #787c99; font-size: 14px; }
+    .cursor { fill: #c0caf5; animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect x="0.5" y="0.5" width="599" height="417" rx="10" fill="#1a1b26" stroke="#30363D"/>
+  <path d="M0.5 38 V10.5 A10 10 0 0 1 10.5 0.5 H589.5 A10 10 0 0 1 599.5 10.5 V38 Z" fill="#16161e"/>
+  <line x1="0.5" y1="38" x2="599.5" y2="38" stroke="#30363D"/>
+  <circle cx="21" cy="19" r="7" fill="#ff5f56"/>
+  <circle cx="43" cy="19" r="7" fill="#ffbd2e"/>
+  <circle cx="65" cy="19" r="7" fill="#27c93f"/>
+  <text x="300" y="24" text-anchor="middle" class="title">martim@github: ~</text>
+
+  <g transform="translate(18 68)">
+    <text y="0"><tspan class="user">martim@github</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$</tspan> whoami</text>
+    <text y="24" class="name">Martim Santos</text>
+    <text y="48">  <tspan class="key">role:</tspan>     AI Tech Lead · AI Engineer &amp; Data Scientist</text>
+    <text y="72">  <tspan class="key">focus:</tspan>    Agentic AI, agents, workflows,</text>
+    <text y="96">            intelligent systems</text>
+    <text y="120">  <tspan class="key">education:</tspan></text>
+    <text y="144">    <tspan class="key">msc:</tspan>    Instituto Superior Técnico (IST), Lisbon</text>
+    <text y="168">            Technische Universität München (TUM), Germany</text>
+    <text y="192">    <tspan class="key">thesis:</tspan> Aligning LMs with Human Preferences</text>
+    <text y="216">    <tspan class="key">field:</tspan>  AI &amp; Data Science</text>
+    <text y="240">  <tspan class="key">interests:</tspan></text>
+    <text y="264">    <tspan class="dim">-</tspan> Agentic AI · GenAI · LLMs</text>
+    <text y="288">    <tspan class="dim">-</tspan> NLP · Preference Optimization</text>
+    <text y="324"><tspan class="user">martim@github</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$</tspan> <tspan class="cursor">█</tspan></text>
+  </g>
+</svg>
