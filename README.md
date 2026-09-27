@@ -20,8 +20,6 @@
   <a href="https://github.com/martimfasantos"><img src="https://img.shields.io/github/followers/martimfasantos?label=Follow&style=for-the-badge&logo=github&labelColor=24292F&color=24292F" alt="GitHub followers"/></a>
 </p>
 
-<br clear="right"/>
-
 ### 🛠️ languages & tools
 
 ![Languages & Tools](https://skills.syvixor.com/api/icons?perline=15&i=python,claudecode,chatgpt,llamaindex,mcp,langchain,googleadk,claudeai,visualstudiocode,codex,opencode,pandas,tensorflow,scikitlearn,pytorch,huggingface,matplotlib,jupyter,docker,kubernetes,googlecloud,azure,amazonwebservices,fastapi,postgresql,mongodb,mysql,ollama,pydantic,uv,github,copilot,supabase,vercel,stripe,notion,redis)
